@@ -1233,7 +1233,7 @@ input::-moz-focus-inner {
   margin-bottom: 4.8rem;
 }
 .display-1--light {
-  color: #ffffff;
+  color: #000000;
 }
 
 .subhead {
@@ -2983,12 +2983,12 @@ html.no-csstransitions .home-content__main {
 .s-contact {
   padding-top: 21rem;
   padding-bottom: 10.2rem;
-  background-color: #111111;
-  color: rgba(255, 255, 255, 0.3);
+  background-color: #ffffff;
+  color: rgba(0, 0, 0, 0.3);
   position: relative;
 }
 .s-contact a {
-  color: #ffffff;
+  color: #000000;
   border-bottom: 1px solid transparent;
   display: inline-block;
 }
@@ -3052,7 +3052,7 @@ html.no-csstransitions .home-content__main {
   display: inline-block;
 }
 .contact-social li a {
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(0, 0, 0, 0.3);
   border: none !important;
 }
 .contact-social li a:hover,
@@ -3078,8 +3078,8 @@ html.no-csstransitions .home-content__main {
   width: 100%;
 }
 .mc-form input[type="email"] {
-  background-color: rgba(0, 0, 0, 0.2);
-  color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(0, 0, 0, 0.267);
+  color: rgb(255, 255, 255);
   width: 100%;
   height: 5.4rem;
   padding: 1.2rem 150px 1.2rem 20px;
